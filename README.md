@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Phaneendra Devabhakthuni!
 
-![Welcome Banner](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
+![Welcome Banner](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 🚀 **Explorer in AI and currently developing personal projects in Data Science.**  
 Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machine Learning, and Web Development.
