@@ -2,7 +2,7 @@
 
 ![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-🚀 **Explorer in AI and currently working as a Data Science Developer / Operation Analyst.**  
+🚀 **Explorer in AI and currently developing personal projects in Data Science.**  
 Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machine Learning, and Web Development.
 
 ---
