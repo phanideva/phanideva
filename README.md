@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Phaneendra Devabhakthuni!
 
-![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Welcome Banner](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
 
 🚀 **Explorer in AI and currently developing personal projects in Data Science.**  
 Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machine Learning, and Web Development.
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 ---
 
 ### [django_react_project](https://github.com/phanideva/django_react_project)
-![Django React](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
+![Django React](https://miro.medium.com/v2/resize:fit:720/format:webp/1*GPII2U0XWvW0a3lK1Q9r4Q.png)
 - **Description:** A full-stack web project combining Django backend with a React frontend.
 - **Tech Stack:** Django, React, PostgreSQL.
 - ![GitHub license](https://img.shields.io/github/license/phanideva/django_react_project)
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 ---
 
 ### [phanideva](https://github.com/phanideva/phanideva)
-![Profile Repository](https://media.giphy.com/media/xUPGcMzwkOY01nj8uE/giphy.gif)
+![Profile Repository](assets/profile-repo-image.png)
 - **Description:** My personal profile repository with insights into my GitHub activities.
 
 ---
