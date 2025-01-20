@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 ---
 
 ### [django_react_project](https://github.com/phanideva/django_react_project)
-![Django React](https://miro.medium.com/v2/resize:fit:720/format:webp/1*GPII2U0XWvW0a3lK1Q9r4Q.png)
+![Django React](https://www.craiyon.com/image/bUKfZ2KUSfOmt1utPCrFRQ)
 - **Description:** A full-stack web project combining Django backend with a React frontend.
 - **Tech Stack:** Django, React, PostgreSQL.
 - ![GitHub license](https://img.shields.io/github/license/phanideva/django_react_project)
