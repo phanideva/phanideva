@@ -16,6 +16,15 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 
 ---
 
+### [fraud-detection-project](https://github.com/phanideva/fraud-detection-project)
+![Fraud Detection](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- **Description:** AI-based fraud detection system using Graph Neural Networks (GNNs).  
+- **Tech Stack:** Python, PyTorch Geometric, FastAPI, Docker.  
+- ![GitHub Repo stars](https://img.shields.io/github/stars/phanideva/fraud-detection-project?style=social)
+- ![GitHub forks](https://img.shields.io/github/forks/phanideva/fraud-detection-project?style=social)
+
+---
+
 ### [MLProject](https://github.com/phanideva/MLProject)
 ![MLProject](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 - **Description:** Machine learning projects including NLP, computer vision, and predictive analytics.
