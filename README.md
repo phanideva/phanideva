@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 ![Fraud Detection](https://media.tenor.com/qJ5evVs-_uUAAAAC/machine-learning-artificial-intelligence.gif)<br>
 - **Description:** AI-based fraud detection system using Graph Neural Networks (GNNs).<br>  
 - **Tech Stack:**<br>
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" height="50"/> Python<br>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/> Python<br>
   - <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.svg" alt="PyTorch Geometric" width="80" height="50"/> PyTorch Geometric<br>
   - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="80" height="50"/> FastAPI<br>
   - <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="Docker" width="80" height="40"/> Docker<br>
