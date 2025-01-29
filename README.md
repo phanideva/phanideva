@@ -9,18 +9,20 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 
 ### [gen_ai_financial_report_generator](https://github.com/phanideva/gen_ai_financial_report_generator)
 - **Description:** Automated real-time financial report generation using AI.
-- 🛠️ Tech Stack
-    Category	                                                       Technologies Used
-    Programming Language	                                            Python
-    Data Collection	                                                  Yahoo Finance API (yfinance)
-    Data Processing & Analysis	                                      Pandas, NumPy
-    Visualization	                                                    Matplotlib, Seaborn
-    Machine Learning (AI/ML)	                                        OpenAI GPT (Generative AI)
-    Financial Analysis	                                              Technical Indicators (Moving Averages, RSI, Bollinger Bands)
-    Natural Language Processing (NLP)	                                OpenAI GPT for AI-generated financial insights
-    Report Generation	                                                Jinja2 (HTML templating), pdfkit (PDF conversion), fpdf (PDF generation)
-    Real-time Dashboard	                                              Streamlit
-    Automation & Execution	                                          subprocess
+## 🛠️ Tech Stack
+
+### **Category** | **Technologies Used**
+--- | ---
+**Programming Language** | Python
+**Data Collection** | Yahoo Finance API (`yfinance`)
+**Data Processing & Analysis** | Pandas, NumPy
+**Visualization** | Matplotlib, Seaborn
+**Machine Learning (AI/ML)** | OpenAI GPT (Generative AI)
+**Financial Analysis** | Technical Indicators (Moving Averages, RSI, Bollinger Bands)
+**Natural Language Processing (NLP)** | OpenAI GPT for AI-generated financial insights
+**Report Generation** | Jinja2 (HTML templating), pdfkit (PDF conversion), fpdf (PDF generation)
+**Real-time Dashboard** | Streamlit
+**Automation & Execution** | subprocess
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phanideva/gen_ai_financial_report_generator?style=social)
 - ![GitHub forks](https://img.shields.io/github/forks/phanideva/gen_ai_financial_report_generator?style=social)
