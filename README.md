@@ -7,6 +7,15 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 
 ## 🔥 Featured Projects
 
+### [gen_ai_financial_report_generator](https://github.com/phanideva/gen_ai_financial_report_generator)
+![Financial Report](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- **Description:** Automated real-time financial report generation using AI.
+- **Tech Stack:** Python, Pandas, OpenAI GPT, Streamlit, Matplotlib.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/phanideva/gen_ai_financial_report_generator?style=social)
+- ![GitHub forks](https://img.shields.io/github/forks/phanideva/gen_ai_financial_report_generator?style=social)
+
+---
+
 ### [Personal-Project-Development](https://github.com/phanideva/Personal-Project-Development)
 ![Project](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 - **Description:** Collection of personal development projects in AI, ML, and Web Development.
