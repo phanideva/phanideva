@@ -7,6 +7,13 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 
 ## 🔥 Featured Projects
 
+### 🎮 [GTA_LITE](https://github.com/phanideva/GTA_LITE) (Finishing Soon...)
+
+Description: Open-world sandbox GTA-style game built with Python & Pygame. 
+Features car driving, shooting, AI police chases, missions, and a multiplayer mode—all without external assets!
+Tech Stack: Python, Pygame, Procedural Generation, AI Pathfinding, Game Physics.
+
+---
 ### [gen_ai_financial_report_generator](https://github.com/phanideva/gen_ai_financial_report_generator)
 - **Description:** Automated real-time financial report generation using AI.
 
@@ -63,13 +70,6 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" height="auto" />
 - Description: A full-stack web project combining Django backend with a React frontend.
 - Tech Stack: Django, React, PostgreSQL.
-
----
-🎮 [GTA_LITE](https://github.com/phanideva/GTA_LITE)
-
-Description: Open-world sandbox GTA-style game built with Python & Pygame. 
-Features car driving, shooting, AI police chases, missions, and a multiplayer mode—all without external assets!
-Tech Stack: Python, Pygame, Procedural Generation, AI Pathfinding, Game Physics.
 
 ---
 
