@@ -65,6 +65,11 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 - Tech Stack: Django, React, PostgreSQL.
 
 ---
+🎮 GTA_LITE [GTA_LITE](https://github.com/phanideva/GTA_LITE)
+
+Description: Open-world sandbox GTA-style game built with Python & Pygame. Features car driving, shooting, AI police chases, missions, and a multiplayer mode—all without external assets!
+Tech Stack: Python, Pygame, Procedural Generation, AI Pathfinding, Game Physics.
+---
 
 ### [phanideva](https://github.com/phanideva/phanideva)
 Profile Repository
