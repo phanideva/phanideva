@@ -14,6 +14,14 @@ Features car driving, shooting, AI police chases, missions, and a multiplayer mo
 Tech Stack: Python, Pygame, Procedural Generation, AI Pathfinding, Game Physics.
 
 ---
+
+### 🎮 [space_anomaly_detection](https://github.com/phanideva/space_anomaly_detection)
+
+Description: An AI-powered satellite telemetry monitoring system that simulates, detects, and predicts anomalies in real time. 
+- It leverages Machine Learning (Isolation Forest) for anomaly detection and,
+- Deep Learning (LSTM) for failure prediction, all presented via a live, interactive dashboard built with Dash.
+
+---
 ### [gen_ai_financial_report_generator](https://github.com/phanideva/gen_ai_financial_report_generator)
 - **Description:** Automated real-time financial report generation using AI.
 
