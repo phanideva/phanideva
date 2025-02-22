@@ -15,7 +15,7 @@ Tech Stack: Python, Pygame, Procedural Generation, AI Pathfinding, Game Physics.
 
 ---
 
-### 🎮 [space_anomaly_detection](https://github.com/phanideva/space_anomaly_detection)
+### 🛰️ [space_anomaly_detection](https://github.com/phanideva/space_anomaly_detection)
 
 Description: An AI-powered satellite telemetry monitoring system that simulates, detects, and predicts anomalies in real time. 
 - It leverages Machine Learning (Isolation Forest) for anomaly detection and,
