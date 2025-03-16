@@ -57,14 +57,6 @@ Description: An AI-powered satellite telemetry monitoring system that simulates,
 
 ---
 
-### [MLProject](https://github.com/phanideva/MLProject)
-![MLProject](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-- **Description:** Machine learning projects including NLP, computer vision, and predictive analytics.
-- **Tech Stack:** Python, Scikit-learn, TensorFlow, Pandas.
-- ![GitHub last commit](https://img.shields.io/github/last-commit/phanideva/MLProject)
-
----
-
 ### [django_react_project](https://github.com/phanideva/django_react_project)
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="150" height="auto" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" height="auto" />
