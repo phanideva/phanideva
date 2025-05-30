@@ -34,15 +34,6 @@ Description: An AI-powered satellite telemetry monitoring system that simulates,
 
 ---
 
-### [Personal-Project-Development](https://github.com/phanideva/Personal-Project-Development)
-![Project](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-- **Description:** Collection of personal development projects in AI, ML, and Web Development.
-- **Tech Stack:** Python, Django, PyTorch, AWS, React.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/phanideva/Personal-Project-Development?style=social)
-- ![GitHub forks](https://img.shields.io/github/forks/phanideva/Personal-Project-Development?style=social)
-
----
-
 ### [fraud-detection-project](https://github.com/phanideva/fraud-detection-project)
 ![Fraud Detection](https://media.tenor.com/qJ5evVs-_uUAAAAC/machine-learning-artificial-intelligence.gif)<br>
 - **Description:** AI-based fraud detection system using Graph Neural Networks (GNNs).<br>  
