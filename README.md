@@ -7,6 +7,15 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 
 ## 🔥 Featured Projects
 
+### [GTA LITE](https://github.com/phanideva/gta-lite)
+- **Description:** Lightweight GTA clone – custom built using Python and Pygame.  
+  Explore open-world driving and missions in a fun, compact game environment.
+- **Tech Stack:** Python, Pygame
+- ![GitHub Repo stars](https://img.shields.io/github/stars/phanideva/gta-lite?style=social)
+- ![GitHub forks](https://img.shields.io/github/forks/phanideva/gta-lite?style=social)
+
+---
+
 ### 🛰️ [space_anomaly_detection](https://github.com/phanideva/space_anomaly_detection)
 
 Description: An AI-powered satellite telemetry monitoring system that simulates, detects, and predicts anomalies in real time. 
