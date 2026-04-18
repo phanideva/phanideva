@@ -10,8 +10,6 @@ Welcome to my GitHub profile! Here, you'll find my projects focused on AI, Machi
 ### [GTA LITE](https://github.com/phanideva/gta-lite)
 - **Description:** Lightweight GTA clone – custom built.  
   Explore open-world driving and missions in a fun, compact game environment.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/phanideva/gta-lite?style=social)
-- ![GitHub forks](https://img.shields.io/github/forks/phanideva/gta-lite?style=social)
 
 ---
 
